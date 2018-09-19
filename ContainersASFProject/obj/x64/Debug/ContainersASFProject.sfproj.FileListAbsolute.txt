@@ -1,0 +1,1 @@
+C:\Azure Containers\demonstrations\ContainersASFSolution\ContainersASFProject\obj\x64\Debug\ContainersASFProject.sfproj.CoreCompileInputs.cache
